@@ -32,7 +32,7 @@ function makeInt(n){
   return ('n');
 }
 function makeInt(n){
-  return ('n.n', 0);
+  parseInt ('n', n)
 }
 function makeInt(n){
   return ('nonsense', n);
