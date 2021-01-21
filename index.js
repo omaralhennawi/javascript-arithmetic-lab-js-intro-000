@@ -26,5 +26,5 @@ function increment(n){
   return (++n);
 }
 function decrement(n){
-  return (--);
+  return (--n);
 }
