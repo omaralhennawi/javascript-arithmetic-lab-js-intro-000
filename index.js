@@ -31,13 +31,13 @@ function decrement(n){
 function makeInt(n){
   return ('n');
 }
-function makeInt(n.){
+function makeInt(n){
   parseInt('n.', 10);
 }
 function makeInt(n){
   return ('nonsense', n);
 }
-function preserveDecimal(n.){
+function preserveDecimal(n){
   return (parseFloat('n.'));
 }
 function preserveDecimal(n){
