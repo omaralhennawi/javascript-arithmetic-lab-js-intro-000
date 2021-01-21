@@ -28,3 +28,12 @@ function increment(n){
 function decrement(n){
   return (--n);
 }
+function makeInt(n){
+  return ('n');
+}
+function makeInt(n){
+  return ('n', n);
+}
+function makeInt(n){
+  return ('nonsense', n);
+}
