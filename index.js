@@ -11,6 +11,5 @@ function divide(){
 
 }
 function add(a, b){
-  var numbers = "a, b"
-  return "numbers"
+  return 'a + b'
 }
