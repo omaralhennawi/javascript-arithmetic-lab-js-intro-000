@@ -38,8 +38,8 @@ function makeInt(n){
   return ('nonsense', n);
 }
 function preserveDecimal(n){
-  parseFloat('n');
-  return ('n')
+  parseFloat('n')
+  return ('n');
 }
 function preserveDecimal(n){
   return (parseFloat('nonsense'));
