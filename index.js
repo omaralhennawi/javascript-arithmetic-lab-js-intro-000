@@ -31,14 +31,14 @@ function decrement(n){
 function makeInt(n){
   return ('n');
 }
-function makeInt(n){
-  parseInt('n.01', 10);
+function makeInt(n.){
+  parseInt('n.', 10);
 }
 function makeInt(n){
   return ('nonsense', n);
 }
-function preserveDecimal(n){
-  return (parseFloat('n.1'));
+function preserveDecimal(n.){
+  return (parseFloat('n.'));
 }
 function preserveDecimal(n){
   return (parseFloat('nonsense'));
