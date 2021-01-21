@@ -31,8 +31,8 @@ function decrement(n){
 function makeInt(n){
   return ('n');
 }
-function makeInt(n, 10){
-  parseInt('n',10);
+function makeInt(n){
+  return (parseInt('n'));
 }
 function makeInt(n){
   return ('nonsense', n);
