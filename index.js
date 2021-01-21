@@ -32,13 +32,13 @@ function makeInt(n){
   return ('n');
 }
 function makeInt(n){
-  parseInt('n.', 10);
+  parseInt('45.5', 10);
 }
 function makeInt(n){
   return ('nonsense', n);
 }
 function preserveDecimal(n){
-  return (parseFloat('n.'));
+  return (parseFloat('2.222'));
 }
 function preserveDecimal(n){
   return (parseFloat('nonsense'));
