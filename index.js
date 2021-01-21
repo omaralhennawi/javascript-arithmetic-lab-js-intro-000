@@ -10,6 +10,6 @@ function multiply(){
 function divide(){
 
 }
-function addTwoNumbers(a, b){
-
+function add(a, b){
+  return "add"
 }
